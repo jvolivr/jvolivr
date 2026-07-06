@@ -1,16 +1,14 @@
-## Hi there 👋
+# João Vitor 
 
-<!--
-**jvolivr/jvolivr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá!
 
-Here are some ideas to get you started:
+Seja bem-vindo ao meu GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou graduando em Análise e Desenvolvimento de Sistemas, atualmente cursando o 3º período da graduação.
+
+Espaço para registrar minha evolução durante os estudos, compartilhar projetos desenvolvidos ao longo da faculdade
+e documentar meu aprendizado em programação e banco de dados.
+
+Meu objetivo é construir uma base sólida em desenvolvimento de software por meio da prática contínua, organização e aprendizado constante.
+
+Este perfil será atualizado à medida que novos projetos forem sendo desenvolvidos.
